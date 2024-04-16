@@ -29,7 +29,7 @@ body {
 }
 
 .color-blue {
-    color: #2e2f42;
+  color: #2e2f42;
 }
 
 .page-menu-link {
@@ -63,7 +63,7 @@ body {
 
 /* HERO */
 .hero {
-    background-color: #2e2f42;
+  background-color: #2e2f42;
 }
 .hero-title {
   font-weight: 700;
@@ -168,6 +168,9 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
+}
+.color-footer {
   color: #f4f4fd;
 }
 .page-footer-text {
